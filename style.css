@@ -11,7 +11,7 @@ body{
 
 /* HEADER */
 header{
-    background:  #39FF14; 
+    background:  #1bf5bc; 
         /*#0d1b2a;*/
     padding:20px 5%;
 }
@@ -86,7 +86,7 @@ h2{
 /* SERVIÇOS */
 
 .servicos {
-    background: #39FF14;
+    background: #1bf5bc;
         /*#0f172a;*/
     color: white;
 }
@@ -128,10 +128,11 @@ h2{
 }
 
 .btn2{
-    display:inline-block;
-    padding:50px 25px;
+    display:center;
+    padding:15px 25px;
     background:#00b4d8;
     color:white;
+    margin: 50px 0;
     text-decoration:none;
     border-radius:5px;
 }
@@ -140,7 +141,7 @@ h2{
 
 .estatisticas{
     padding: 80px 10%;
-    background: #39FF14;
+    background: #1bf5bc;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 25px;
