@@ -125,6 +125,15 @@ h2{
     border-radius:10px;
 }
 
+.btn2{
+    display:inline-block;
+    padding:50px 25px;
+    background:#00b4d8;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+}
+
 /* ESTATÍSTICAS */
 
 .estatisticas{
