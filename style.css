@@ -11,7 +11,8 @@ body{
 
 /* HEADER */
 header{
-    background:#0d1b2a;
+    background:  #39FF14; 
+        /*#0d1b2a;*/
     padding:20px 5%;
 }
 
@@ -85,7 +86,8 @@ h2{
 /* SERVIÇOS */
 
 .servicos {
-    background: #0f172a;
+    background: #39FF14;
+        /*#0f172a;*/
     color: white;
 }
 
@@ -138,7 +140,7 @@ h2{
 
 .estatisticas{
     padding: 80px 10%;
-    background: #0f172a;
+    background: #39FF14;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 25px;
